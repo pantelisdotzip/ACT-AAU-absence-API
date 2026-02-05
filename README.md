@@ -7,6 +7,6 @@ Provide the two required enviroment variables (**PORTAL_USERNAME** and **PORTAL_
 
 ## Result:
 The app will start a webserver on which you can find a JSON structure under */absences* that contains per-course information (course name, absence count).   
-Example:
+Example:   
 <img width="492" height="245" alt="image" src="https://github.com/user-attachments/assets/9b6cd6a9-2093-4ced-935a-b94fd46bd14c" />
 
